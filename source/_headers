@@ -21,9 +21,6 @@ https://*.galgamer.eu.org/*
   
 https://galgamer.eu.org/api/*
   X-Robots-Tag: noindex
-  
-/playground/1G.gzip
-  Content-Encoding: gzip
    
 /img/*
   Cache-Control: public, max-age=2500000
@@ -31,14 +28,11 @@ https://galgamer.eu.org/api/*
 /image/*
   Cache-Control: public, max-age=2500000
   
-/js/*
-  Cache-Control: no-cache
-
-/css/*
-  Cache-Control: no-cache
-  
 /music/*
   Cache-Control: no-cache
+  
+/article/
+  Cache-Control: public, max-age=86400
   
 /article/48333*
   Link: </img/default.png>; rel="prefetch" as="image"
