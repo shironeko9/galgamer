@@ -21,7 +21,10 @@ https://*.galgamer.eu.org/*
   
 https://galgamer.eu.org/api/*
   X-Robots-Tag: noindex
-   
+  
+/
+ Cache-Control: private, max-age=2500
+ 
 /img/*
   Cache-Control: public, max-age=2500000
   
