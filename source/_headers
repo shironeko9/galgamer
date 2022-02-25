@@ -14,6 +14,7 @@ https://dl.galgamer.xyz/*
   X-Robots-Tag: noindex
   
 https://galgamer.eu.org/*
+  alt-svc: h3="104.18.13.141:443"; ma=86400, h3-29="104.17.107.55:443"; ma=86400, h2="104.18.13.141:443"; ma=86400
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   
 https://*.galgamer.eu.org/*
