@@ -12,7 +12,7 @@ tags:
   - 日常
 categories:
     - [R-18]
-    - [Team Salvato]
+    - [游戏公司, Team Salvato]
 abbrlink: 25665
 author: sym1018
 excerpt: '青梅竹马的邻居纱由理邀请我加入文学俱乐部，在文学部中的日常是什么样呢'
@@ -319,8 +319,12 @@ Just Monika
 
 ### 已破解
 
-{% telegram_channel 96 %}
+<!-- {% telegram_channel 96 %} -->
 
-[🔗️毒盘](https://pan.baidu.com/s/1dtSnU-8Ukhs8Qv1N4BH1hQ)
+<!-- [🔗️毒盘](https://pan.baidu.com/s/1dtSnU-8Ukhs8Qv1N4BH1hQ) -->
+
+https://www.ryuugames.com/doki-doki-literature-club-plus/
+
+漢化：https://steamcommunity.com/sharedfiles/filedetails/?id=1176221672
 
 

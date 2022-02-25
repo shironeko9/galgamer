@@ -51,6 +51,11 @@ img.layer-border {
   max-height: unset;
 }
 
+/* 文章內圖片 最大寬度 太小 */
+.markdown-body p>a>img, .markdown-body p>img {
+  max-width: 96%;
+}
+
 /* 配色 */
 :root {
   /* 網頁背景色: 0; */
@@ -60,7 +65,7 @@ img.layer-border {
   /* 文字顏色: 0; */
   --text-color: #405b55;
   /* 二級文字顏色: 0; */
-  --sec-text-color: #868686;
+  --sec-text-color: #484646;
   /* 文章正文顏色: 0; */
   --post-text-color: #13201f;
   /* 文章標題顏色: 0; */
