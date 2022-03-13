@@ -205,11 +205,7 @@ excerpt: '玩太多沉痛的 Galgame，大腦要降級啦。今天玩點輕鬆�
 
 都是萌萌人，，，
 
-
-<video controls preload="metadata" width='100%' poster="../image/CafeStella/op.webp">
-  <source src="https://bitbucket.org/sa-ya/g-static/raw/ec69262a87ddfec8aca250a4621e2f8b7036330f/CafeStella/op.mp4" type="video/mp4" >
-<p> To view this video please enable JavaScript</p>
-</video>
+{% steam_player 256875468 %}
 
 
 ## 遊戲畫面
@@ -295,7 +291,11 @@ excerpt: '玩太多沉痛的 Galgame，大腦要降級啦。今天玩點輕鬆�
 
 ## 資源與下載
 
-### 日文原版
+{% steam_widget 1829980 %}
+
+Hikari Field 要在 Steam 上代理這個遊戲，，，如果有什麼新消息我還會來這裏更新的。
+
+**盜版：**
 
 遊戲本體（無需破解）
 
